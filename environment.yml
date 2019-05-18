@@ -1,0 +1,5 @@
+name: pneumonia
+channels:
+  - defaults
+prefix: /Users/arnavwadehra/anaconda3/envs/pneumonia
+
